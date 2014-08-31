@@ -1,0 +1,19 @@
+include("simulation.jl"
+)
+importall Simulation
+Simulation.profile
+profile
+using Simulation
+typePreference
+Simulation.typePreference
+using Simulation
+importall Simulation
+typePreference
+typePreference
+Simulation.typePreference
+using Simulation : sample
+push!(LOAD_PATH, "~/dev/SurveyMan/src/julia")
+using Simulation
+Simulation.profile
+include("simulation.jl")
+Pkg.status()
